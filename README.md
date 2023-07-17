@@ -27,4 +27,14 @@ My clients often describe me as dedicated, detail-oriented, and highly ethical. 
 
 When I'm not buried in data, I enjoy hiking 🚶‍♂️, exploring nature 🌳, and learning about different cultures 🌐. I believe these interests help me to maintain a broad perspective, bringing creativity and innovation to my work.
 
+## 📫 How to reach me
+
+You can find me on [Fiverr](https://www.fiverr.com/dmchalitha) where I offer my services as a freelancer. My specializations include:
+
+- GIS Mapping: Data collection, georeferencing, analysis, and management.
+- Remote Sensing: Image analysis, classification, change detection from various sources.
+- Interactive Mapping: Development of dynamic maps with real-time updates.
+- Custom Scripts: Python and MATLAB geoprocessing scripts for unique spatial analyses.
+- Research projects related to GIS & RS with comprehensive report writing.
+
 Thanks for stopping by!
